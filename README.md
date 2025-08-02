@@ -1,16 +1,16 @@
 # 🗓️ Appointment Manager
 
 ## Table of Contents
-- [Description](#description)
-- [Technology](#technology)
-- [Features](#features)
-- [Usage](#usage)
-- [Installation and Setup](#installation-and-setup)
+- [Description](#📄-description)
+- [Technology](#💻-technology)
+- [Features](#✨-features)
+- [Usage](#🧑‍💻-usage)
+- [Installation and Setup](#️-installation-and-setup)
 - [Contact](#contact)
 
 ---
 
-## 📄 #Description
+## 📄 Description
 
 The **Appointment Manager** is a web-based application built using **Java (Core + Advanced)**, **Servlets**, and **JSP** that allows users to book appointments with employees, and enables employees and admins to manage appointments efficiently. It provides a multi-role system with different functionalities for Admins, Employees, and Users.
 
