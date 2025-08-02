@@ -1,68 +1,64 @@
 # 🗓️ Appointment Manager
 
 ## Table of Contents
-- [Description](#📄Description)
-- [Technology](#💻-technology)
-- [Features](#✨-features)
-- [Usage](#🧑‍💻-usage)
-- [Installation and Setup](#️-installation-and-setup)
-- [Contact](#contact)
++ [Description](#description)
++ [Technology](#technology)
++ [Features](#features)
++ [Usage](#usage)
++ [Installation and Setup](#installation-and-setup)
++ [Contact](#contact)
 
 ---
 
-## 📄 Description
-
-The **Appointment Manager** is a web-based application built using **Java (Core + Advanced)**, **Servlets**, and **JSP** that allows users to book appointments with employees, and enables employees and admins to manage appointments efficiently. It provides a multi-role system with different functionalities for Admins, Employees, and Users.
+## Description <a name="description"></a>
+**Appointment Manager** is a Java-based web application developed using Servlets, JSP, and JDBC. It allows users to book appointments with employees, and enables employees and admins to manage these appointments efficiently. It supports role-based access for Admins, Employees, and Users, each with different functionalities and dashboards.
 
 ---
 
-## 💻 Technology
-
-- **Frontend**: HTML, CSS, JSP  
+## Technology <a name="technology"></a>
+- **Frontend**: JSP, HTML, CSS  
 - **Backend**: Java (Core + Advanced), Servlets  
 - **Database**: MySQL  
 - **Connectivity**: JDBC  
-- **Web Server**: Apache Tomcat  
+- **Server**: Apache Tomcat  
 - **IDE**: VS Code / Eclipse  
-- **Version Control**: Git
+- **Version Control**: Git & GitHub
 
 ---
 
-## ✨ Features
+## Features <a name="features"></a>
 
-### 👩‍💼 Admin
-- Admin login  
-- Add/View/Delete employees  
-- View registered users  
+### 🔹 Admin
+- Admin Login  
+- Add/View/Delete Employees  
+- View Registered Users  
 
-### 👨‍💻 Employee
-- Login with employee credentials  
-- View pending appointments  
-- Approve or disapprove appointments  
-- View today’s, approved, and disapproved appointments  
-- Change password  
+### 🔹 Employee
+- Employee Login  
+- View Pending Appointments  
+- Approve/Disapprove Appointments  
+- View Approved/Disapproved/Today’s Appointments  
+- Change Password  
 
-### 🙋‍♂️ User
-- New user registration and login  
-- View list of employees  
-- Book appointment with selected employee  
-- Check appointment status  
-- View today’s appointments  
-- Change password  
-
----
-
-## 🧑‍💻 Usage
-
-- Admin can manage employee and user data.  
-- Employees can review and manage appointment requests.  
-- Users can register and book appointments with employees.  
-- Roles have separate dashboards and functionalities.  
+### 🔹 User
+- User Registration & Login  
+- View List of Employees  
+- Book Appointment with Selected Employee  
+- View Appointment Status  
+- View Today’s Appointments  
+- Change Password  
 
 ---
 
-## 🛠️ Installation and Setup
+## Usage <a name="usage"></a>
+1. **Admins** manage employees and monitor user data.  
+2. **Employees** manage appointment approvals and track their schedules.  
+3. **Users** register, view employees, book appointments, and track appointment status.  
+4. Each role accesses different modules based on their credentials.
 
-1. **Clone the repository**
+---
+
+## Installation and Setup <a name="installation-and-setup"></a>
+1. **Clone the Repository**
    ```bash
    git clone https://github.com/Sanikapatil21/AppointmentManager.git
