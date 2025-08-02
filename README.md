@@ -1,7 +1,7 @@
 # 🗓️ Appointment Manager
 
 ## Table of Contents
-- [Description](#📄-description)
+- [Description](#📄 Description)
 - [Technology](#💻-technology)
 - [Features](#✨-features)
 - [Usage](#🧑‍💻-usage)
