@@ -6,7 +6,7 @@
 + [Features](#features)
 + [Usage](#usage)
 + [Installation and Setup](#installation-and-setup)
-+ [Contact](#contact)
+
 
 ---
 
