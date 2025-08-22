@@ -64,7 +64,7 @@
    git clone https://github.com/Sanikapatil21/AppointmentManager.git
 
 ## 🔹 Screenshots <a name="screenshots"></a>
-**Admins**
+**Admin**
 
 - Admin login page
   
