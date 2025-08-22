@@ -67,10 +67,15 @@
 **Admins**
 
 - Admin login page
+  
 <img width="960" height="481" alt="image" src="https://github.com/user-attachments/assets/e859145e-c2e4-4687-b5a1-31dd09209b2b" />
-- Add/View/Delete Employees
+
+- Add Employees
+  
 <img width="981" height="552" alt="image" src="https://github.com/user-attachments/assets/99b0f1f9-b827-4061-b5d4-2354bd4991e2" />
 
+- View/Delete Employee
+  
 <img width="961" height="540" alt="image" src="https://github.com/user-attachments/assets/542b81a6-072a-4e2a-8b28-b793879b685f" />
 
 **Employee**
