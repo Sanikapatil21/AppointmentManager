@@ -1,4 +1,4 @@
-# 🗓️ Appointment Manager
+<img width="982" height="552" alt="image" src="https://github.com/user-attachments/assets/d685e78e-6617-44c1-8079-a0cb5f0ce12a" /># 🗓️ Appointment Manager
 
 ## Table of Contents
 + [Description](#description)
@@ -6,7 +6,7 @@
 + [Features](#features)
 + [Usage](#usage)
 + [Installation and Setup](#installation-and-setup)
-
++ [Screenshots](#screenshots)
 
 ---
 
@@ -62,3 +62,19 @@
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/Sanikapatil21/AppointmentManager.git
+
+## 🔹 Screenshots <a name="screenshots"></a>
+**Admins**
+-Admin login page
+<img width="960" height="481" alt="image" src="https://github.com/user-attachments/assets/e859145e-c2e4-4687-b5a1-31dd09209b2b" />
+-Add/View/Delete Employees
+<img width="981" height="552" alt="image" src="https://github.com/user-attachments/assets/99b0f1f9-b827-4061-b5d4-2354bd4991e2" />
+
+<img width="961" height="540" alt="image" src="https://github.com/user-attachments/assets/542b81a6-072a-4e2a-8b28-b793879b685f" />
+
+**Employee**
+
+
+
+
+
