@@ -1,4 +1,4 @@
-<img width="982" height="552" alt="image" src="https://github.com/user-attachments/assets/d685e78e-6617-44c1-8079-a0cb5f0ce12a" /># 🗓️ Appointment Manager
+# 🗓️ Appointment Manager
 
 ## Table of Contents
 + [Description](#description)
@@ -65,14 +65,62 @@
 
 ## 🔹 Screenshots <a name="screenshots"></a>
 **Admins**
--Admin login page
+
+- Admin login page
 <img width="960" height="481" alt="image" src="https://github.com/user-attachments/assets/e859145e-c2e4-4687-b5a1-31dd09209b2b" />
--Add/View/Delete Employees
+- Add/View/Delete Employees
 <img width="981" height="552" alt="image" src="https://github.com/user-attachments/assets/99b0f1f9-b827-4061-b5d4-2354bd4991e2" />
 
 <img width="961" height="540" alt="image" src="https://github.com/user-attachments/assets/542b81a6-072a-4e2a-8b28-b793879b685f" />
 
 **Employee**
+- Employee login page
+  
+    <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/5a40541b-af2a-4489-8a72-d37a65c7de4c" />
+
+- Pending appointments
+  
+   <img width="982" height="552" alt="image" src="https://github.com/user-attachments/assets/df122085-4ab0-4759-ae03-76e8501b57fc" />
+
+- Approve or Disapprove Appointments
+  
+   <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/9d4be14c-0375-4e55-a7d9-ec3bff67b3bb" />
+ 
+- Today’s Appointments
+
+    <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/5c466ec4-d8e0-41dd-a929-ae2ae01e8283" />
+
+**User**
+- User Login Page
+
+   <img width="982" height="552" alt="image" src="https://github.com/user-attachments/assets/6b95c025-6de2-41fa-916d-c9a9cc9e942a" />
+
+- List of Employees
+
+   <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/06ec8ab3-56b7-44d6-b3c8-c123c2a603d4" />
+
+- Book Appointment Form
+
+   <img width="982" height="552" alt="image" src="https://github.com/user-attachments/assets/9d45311e-174b-4ad4-b973-8c7993b64fe2" />
+
+- View Appointment Status
+
+   <img width="982" height="552" alt="image" src="https://github.com/user-attachments/assets/d62737f2-ede2-40fa-bf30-cea3e842c802" />
+
+- View Today's Appointment
+
+   <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/faa58369-1b8b-428a-aede-2b38c0123d67" />
+
+
+
+  
+
+
+
+
+
+
+
 
 
 
